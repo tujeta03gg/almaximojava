@@ -1,0 +1,14 @@
+C:\Users\cesar\IdeaProjects\almaximo\src\main\java\com\api\almaximo\AlmaximoApplication.java
+C:\Users\cesar\IdeaProjects\almaximo\src\main\java\com\api\almaximo\controllers\ProductController.java
+C:\Users\cesar\IdeaProjects\almaximo\src\main\java\com\api\almaximo\CorsConfig.java
+C:\Users\cesar\IdeaProjects\almaximo\src\main\java\com\api\almaximo\dtos\ProductCreateDto.java
+C:\Users\cesar\IdeaProjects\almaximo\src\main\java\com\api\almaximo\dtos\ProductListDto.java
+C:\Users\cesar\IdeaProjects\almaximo\src\main\java\com\api\almaximo\dtos\ProductSupplierDto.java
+C:\Users\cesar\IdeaProjects\almaximo\src\main\java\com\api\almaximo\dtos\SelectDto.java
+C:\Users\cesar\IdeaProjects\almaximo\src\main\java\com\api\almaximo\models\ProductModel.java
+C:\Users\cesar\IdeaProjects\almaximo\src\main\java\com\api\almaximo\models\ProductSupplierModel.java
+C:\Users\cesar\IdeaProjects\almaximo\src\main\java\com\api\almaximo\models\SupplierModel.java
+C:\Users\cesar\IdeaProjects\almaximo\src\main\java\com\api\almaximo\models\TypeModel.java
+C:\Users\cesar\IdeaProjects\almaximo\src\main\java\com\api\almaximo\respositories\IProductRepository.java
+C:\Users\cesar\IdeaProjects\almaximo\src\main\java\com\api\almaximo\respositories\IProductSupplierRepository.java
+C:\Users\cesar\IdeaProjects\almaximo\src\main\java\com\api\almaximo\services\ProductService.java

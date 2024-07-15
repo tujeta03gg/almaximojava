@@ -1,0 +1,14 @@
+com\api\almaximo\AlmaximoApplication.class
+com\api\almaximo\respositories\IProductRepository.class
+com\api\almaximo\controllers\ProductController.class
+com\api\almaximo\models\SupplierModel.class
+com\api\almaximo\dtos\ProductSupplierDto.class
+com\api\almaximo\CorsConfig.class
+com\api\almaximo\models\ProductSupplierModel.class
+com\api\almaximo\models\TypeModel.class
+com\api\almaximo\models\ProductModel.class
+com\api\almaximo\dtos\SelectDto.class
+com\api\almaximo\dtos\ProductListDto.class
+com\api\almaximo\services\ProductService.class
+com\api\almaximo\dtos\ProductCreateDto.class
+com\api\almaximo\respositories\IProductSupplierRepository.class
